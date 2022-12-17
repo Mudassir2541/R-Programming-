@@ -1,13 +1,9 @@
-Version: 1.0
+print ("a")
 
-RestoreWorkspace: Default
-SaveWorkspace: Default
-AlwaysSaveHistory: Default
+name = "Mudassir"
+Version = "Rstudio"
+ 
+print (name)
 
-EnableCodeIndexing: Yes
-UseSpacesForTab: Yes
-NumSpacesForTab: 2
-Encoding: UTF-8
+print ("These line are written in Rstudio")
 
-RnwWeave: Sweave
-LaTeX: pdfLaTeX
